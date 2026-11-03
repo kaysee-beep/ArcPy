@@ -29,7 +29,7 @@ arcpy.analysis.buffer(
 **Clip, Erase, Identity, Intersect, SelectAnalysis**
 
 Parameter Functions:
-`arcpy.analysis.clip`, `arcpy.analysis.erase`, `arcpy.analysis.identity`, `arcpy.analysis.intersect`, arcpy.analysis.select`
+`arcpy.analysis.clip`, `arcpy.analysis.erase`, `arcpy.analysis.identity`, `arcpy.analysis.intersect`, `arcpy.analysis.select`
 ```python
 arcpy.analysis.X(
   in_features = "filename.shp",
